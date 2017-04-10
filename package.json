@@ -1,0 +1,20 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "An example using mocha in VSCODE",
+  "main": "app.js",
+  "scripts": {
+    "test": "test app"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "vscode"
+  ],
+  "author": "kgao",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.1.3"
+  }
+}
