@@ -1,5 +1,5 @@
 # mocha-vscode
-A minimal setup example for app using mocha in vscode, powerby gulp.
+A minimal setup example for app using mocha in vscode, powered by gulp.
 
 # Getting started
 
