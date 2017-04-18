@@ -4,7 +4,8 @@
   "description": "An example using mocha in VSCODE",
   "main": "app.js",
   "scripts": {
-    "test": "test app"
+    "test": "test app",
+    "start": "node app"
   },
   "keywords": [
     "test",
